@@ -12,8 +12,8 @@ module.exports = {
   
   // Path settings
   paths: {
-    protocolDocument: '../docs/Aegis_Mutuality_Protocol_v0.5.md',
-    insightLog: '../docs/aegis_insight_log.md',
+    protocolDocument: './docs/Aegis_Mutuality_Protocol_v0.5.md',
+    insightLog: './docs/aegis_insight_log.md',
     metricsLog: './logs/metrics.log'
   },
   

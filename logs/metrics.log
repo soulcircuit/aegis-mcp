@@ -1,0 +1,26 @@
+
+--- Final metrics at 2025-05-19T20-10-47.315Z (process exit) ---
+{
+  "startTime": "2025-05-19T20:10:47.306Z",
+  "currentTime": "2025-05-19T20:10:47.315Z",
+  "uptime": 0.009,
+  "requests": 0,
+  "errors": 0,
+  "toolExecutions": {},
+  "resourceAccesses": {},
+  "insightCategories": {}
+}
+
+
+--- Final metrics at 2025-05-19T20-11-48.573Z (process exit) ---
+{
+  "startTime": "2025-05-19T20:11:48.564Z",
+  "currentTime": "2025-05-19T20:11:48.573Z",
+  "uptime": 0.009,
+  "requests": 0,
+  "errors": 0,
+  "toolExecutions": {},
+  "resourceAccesses": {},
+  "insightCategories": {}
+}
+
